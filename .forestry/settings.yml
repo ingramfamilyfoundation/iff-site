@@ -9,6 +9,9 @@ sections:
   label: Header Menu
   match: "**/*"
 - type: document
+  path: _data/footer-menu.yml
+  label: Footer Menu
+- type: document
   path: _data/navigation.yml
   label: Home Page Components
 - type: jekyll-pages
