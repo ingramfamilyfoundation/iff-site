@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: _data/header-menu.yml
+  label: Header Menu
+  match: "**/*"
+- type: document
   path: _data/navigation.yml
   label: Home Page Components
 - type: jekyll-pages
