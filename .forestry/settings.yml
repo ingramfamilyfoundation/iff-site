@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/header-menu.yml
   label: Header Menu
-  match: "**/*"
 - type: document
   path: _data/footer-menu.yml
   label: Footer Menu
